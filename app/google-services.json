@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871951015870",
+    "firebase_url": "https://baranov-f5bd1-default-rtdb.firebaseio.com",
+    "project_id": "baranov-f5bd1",
+    "storage_bucket": "baranov-f5bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871951015870:android:ede57afa7a04072d0d23ef",
+        "android_client_info": {
+          "package_name": "com.company.baranov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871951015870-himdqgrrha8s9h6j7h8binfnlcch358n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.baranov",
+            "certificate_hash": "fe4e9bc1c7296759fc9245eed3eb89e82f4db492"
+          }
+        },
+        {
+          "client_id": "871951015870-n2eimeio9d6oppr57bn98bd5orde9dbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6KXVoQS0lyhLTQXUJ36miC5XqS3oC4BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871951015870-n2eimeio9d6oppr57bn98bd5orde9dbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
